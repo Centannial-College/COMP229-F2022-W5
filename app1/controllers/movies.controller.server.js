@@ -85,4 +85,3 @@ export function ProcessMoviesDelete(req, res, next){
         res.redirect('/movie-list');
     })
 }
-
